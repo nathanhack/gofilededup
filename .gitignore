@@ -17,5 +17,8 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+# History dir
+.history
+
 # Go workspace file
 go.work
